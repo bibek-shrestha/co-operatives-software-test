@@ -1,0 +1,9 @@
+#build folder, class files
+/build
+*.class
+
+#eclipse settings
+.settings/
+.project
+.classpath
+
